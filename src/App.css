@@ -1,0 +1,15 @@
+#root {
+    .btn-enviar {
+        width: 15%;
+    }
+
+    .not-found {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: 24px;
+    }
+
+}
